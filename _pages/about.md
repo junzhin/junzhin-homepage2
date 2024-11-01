@@ -3,6 +3,7 @@ layout: about
 title: about
 permalink: /
 subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+nav: False 
 
 profile:
   align: right
