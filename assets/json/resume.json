@@ -1,22 +1,22 @@
 {
   "basics": {
-    "name": "Junzhi (Raymond) Ning",
-    "label": "MRes Student in Machine Learning",
+    "name": "Junzhi Ning",
+    "label": "Master Student",
     "image": "",
     "email": "ningjunzhi85@gmail.com",
-    "phone": "(+44) 123-456-789",
-    "url": "https://junzhin.github.io/junzhin-homepage/",
-    "summary": "I am an MRes student at Imperial College London, specializing in AI and Machine Learning, with a focus on medical imaging using GANs and Diffusion Generative models.",
+    "phone": "+8613600055031",
+    "url": "https://junzhin.github.io/",
+    "summary": "A  Man in Quest of the unknown, yet satisfied.",
     "location": {
-      "address": "123 Imperial College Road",
-      "postalCode": "SW7 2AZ",
-      "city": "London",
-      "countryCode": "GB",
-      "region": "United Kingdom"
+      "address": "2712 Broadway St",
+      "postalCode": "CA 94115",
+      "city": "San Francisco",
+      "countryCode": "US",
+      "region": "California"
     },
     "profiles": [
       {
-        "network": "LinkedIn",
+        "network": "LinkdeIn",
         "username": "Junzhi Ning",
         "url": "https://www.linkedin.com/in/junzhin"
       }
@@ -24,51 +24,25 @@
   },
   "work": [
     {
-      "name": "Imperial College London",
-      "position": "Research Graduate Assistant",
-      "url": "https://www.imperial.ac.uk/",
-      "startDate": "2023-10-01",
-      "endDate": "2024-10-01",
-      "summary": "Research Assistant working on advanced AI techniques for medical imaging, including GANs and Diffusion Generative models.",
-      "highlights": [
-        "Medical Data Synthesis",
-        "CXR Image Translation"
-      ]
-    },
-    {
-      "name": "Trustworthy Machine Learning Lab, University of Sydney",
-      "position": "Research Undergraduate Assistant",
-      "url": "https://www.sydney.edu.au/",
-      "startDate": "2022-08-01",
-      "endDate": "2023-06-30",
-      "summary": "Contributed to research projects on trustworthy AI models for medical image analysis.",
-      "highlights": [
-        "Trustworthy AI",
-        "Medical Imaging"
-      ]
-    },
-    {
-      "name": "Guangzhou Junrui Kang Biotechnology",
-      "position": "Software Engineering Intern",
+      "name": "Institute for Advanced Study, Princeton University",
+      "position": "Professor of Theoretical Physics",
       "url": "https://example.com",
-      "startDate": "2022-11-01",
-      "endDate": "2023-01-31",
-      "summary": "Developed software tools for medical applications during my internship at a biotechnology company.",
-      "highlights": [
-        "Medical Software Development"
-      ]
-    },
+      "startDate": "1933-01-01",
+      "endDate": "1955-01-01",
+      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+      "highlights": ["Relativity"]
+    }
+  ],
+  "volunteer": [
     {
-      "name": "University of Melbourne",
-      "position": "Research Undergraduate Assistant",
-      "url": "https://www.unimelb.edu.au/",
-      "startDate": "2021-12-01",
-      "endDate": "2022-06-30",
-      "summary": "Assisted in research on statistical learning models and data science applications.",
-      "highlights": [
-        "Statistical Learning",
-        "Data Science"
-      ]
+      "organization": "People's Climate March",
+      "location": "Zurich, Switzerland",
+      "position": "Lead Organizer",
+      "url": "https://example.com",
+      "startDate": "2014-04-01",
+      "endDate": "2015-07-01",
+      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
+      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
     }
   ],
   "education": [
@@ -163,57 +137,6 @@
       "releaseDate": "2024-05-01",
       "url": "https://drive.google.com/file/d/1Ue34uFvl31JfXWE4U1YgNUjGLe6b0SDd/view?usp=sharing",
       "summary": "The thesis proposes a novel unpaired translation framework to improve lung opacity diagnosis in CXRs."
-    }
-  ],
-  "skills": [
-    {
-      "name": "AI & Machine Learning",
-      "level": "Advanced",
-      "keywords": [
-        "GANs",
-        "Diffusion Models",
-        "Medical Data Synthesis",
-        "Image Classification"
-      ]
-    },
-    {
-      "name": "Medical Imaging",
-      "level": "Advanced",
-      "keywords": [
-        "CXR Image Translation",
-        "Lung Disease Classification",
-        "AI in Healthcare"
-      ]
-    }
-  ],
-  "languages": [
-    {
-      "language": "English",
-      "fluency": "Fluent"
-    },
-    {
-      "language": "Chinese",
-      "fluency": "Native"
-    }
-  ],
-  "interests": [
-    {
-      "name": "Medical Imaging",
-      "keywords": [
-        "AI in Healthcare",
-        "CXR Analysis",
-        "Diffusion Models"
-      ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Dr. Guang Yang",
-      "reference": "Guang is an excellent mentor and supervisor, guiding students through cutting-edge research in AI and medical imaging."
-    },
-    {
-      "name": "Dr. Matthieu Komorowski",
-      "reference": "Matthieu is a brilliant researcher, providing invaluable insights into machine learning applications in medical imaging."
     }
   ]
 }
