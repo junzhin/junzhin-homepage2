@@ -3,4 +3,4 @@ Disallow: /
 Noindex: /
 
 
-Sitemap: https://alshedivat.github.io//sitemap.xml
+Sitemap: https://junzhin.github.io//sitemap.xml
