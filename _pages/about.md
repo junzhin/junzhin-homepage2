@@ -19,4 +19,17 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 
-My research primarily aims to enable effective, robust, and interpretable Large Language Models (LLMs) for reasoning, understanding, and analysis on human language. In addition to LLMs, I am also passionate about building LLM-based real-world Autonomous Agents that are rigorous, tractable, and interactive.
+I am an MRes (Master of Research) student in Machine Learning at Imperial College London, supervised by [**Dr. Matthieu Komorowski**](https://www.linkedin.com/in/matthieukomorowski/) and [**Dr. Guang Yang**](https://www.linkedin.com/in/gyangmedia/). I obtained my B.Sci. degree in Statistic with a minor in Computing from The University of Melbourne and an Honours degree in Data Science from The University of Sydney.
+
+
+- My current research focuses on applying advanced AI techniques, including:
+  - **GANs** and **Diffusion Generative models**, to **medical imaging**.
+  - **Medical data Synthesis** 
+  -  **CXR image translation and Computer-aid Medical Image Analysis**.
+
+**I am actively seeking PhD and RA opportunities.**
+
+Feel free to contact me for Chat and Research Opportunities. 
+
+
+_"Positivity is the essence of progress. In every challenge, I see an opportunity for learning and growth."_
